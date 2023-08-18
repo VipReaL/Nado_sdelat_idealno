@@ -9,6 +9,6 @@
 - перейти к видеоразбору;
 - ответить на парочку вопросов после видео.
 
-### Видеоразбор готового кейса «Надо сделать идеально»:
+### [Видеоразбор готового кейса «Надо сделать идеально»](https://www.youtube.com/watch?v=lsJNXKRfqOQ)
 
-<video>https://www.youtube.com/watch?v=lsJNXKRfqOQ</video>
+[![ALT-ТЕКСТ ИЗОБРАЖЕНИЯ](images/cover.jpg)](https://www.youtube.com/watch?v=lsJNXKRfqOQ)
